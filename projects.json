@@ -1,33 +1,50 @@
 [
   {
-    "title": "MediTanzania Project: CS205 Capstone",
-    "desc": "UNICEF-backed interactive & corruption-resistant website/database platform for improving public healthcare in Tanzania. Built collaboratively by a team of four with JS, UX design, citizen/staff portals and incorporates ML-based sentiment analysis for handling text-based aspect of surveys",
+    "title": "Stochastic Modeling & Statistical Distribution Analysis",
+    "desc": "Probabilistic modeling project focused on identifying and validating unknown distributions using statistical inference, transformation techniques, and simulation-based analysis.",
+    "img": "assets/imgs/project-stochastic.png",
+    "link": "https://github.com/EfeCivisoken/stochastic-modeling-analysis"
+  },
+  {
+    "title": "ECE 414 – Embedded Systems & Hybrid Radar Project",
+    "desc": "Microcontroller-based hybrid ultrasonic–radar sensing system featuring real-time signal processing, interrupt-driven design, and low-level hardware control.",
+    "img": "assets/imgs/project-ece414.png",
+    "link": "https://github.com/EfeCivisoken/ece414-embedded-systems-hybridradarproject-and-labs"
+  },
+  {
+    "title": "MediTanzania – Public Health Platform",
+    "desc": "UNICEF-backed web platform for healthcare transparency, combining citizen reporting, analytics, and ML-assisted insights.",
     "img": "assets/imgs/project-meditanzania.png",
     "link": "https://github.com/EfeCivisoken/meditanzania-project"
   },
   {
-    "title": "CS205 Labs",
-    "desc": "Advanced JavaScript labs from CS205: includes full-stack components and data-driven web features.",
-    "img": "assets/imgs/project-cs205.png",
-    "link": "https://github.com/EfeCivisoken/cs205-labs"
+    "title": "ECE 212 – MIPS Processor & SystemVerilog Labs",
+    "desc": "Implementation of MIPS architecture components, datapath design, control logic, and SystemVerilog-based hardware simulations.",
+    "img": "assets/imgs/project-ece212.png",
+    "link": "https://github.com/EfeCivisoken/ece212-mips-processor-and-systemverilog-labs"
   },
   {
-    "title": "ECE211 Digital Circuits",
-    "desc": "Sequential/Combinational circuit logic design, FSMs (from a holistic traffic light management system to customized Mustang LED designs), and Verilog circuits. Also includes testbenches, simulation, and lab report files.",
+    "title": "ECE 211 – Digital Circuits",
+    "desc": "Sequential and combinational logic design including FSMs, traffic-light controllers, Verilog modules, and simulation workflows.",
     "img": "assets/imgs/project-ece211.png",
     "link": "https://github.com/EfeCivisoken/ece211-digital-circuits"
   },
   {
-    "title": "CS150 Projects and Labs",
-    "desc": "Object-oriented Java programming LABs for data structure/algorithm implementations and sophisticated PROJECTs on complex data structures and truck transport simulation.",
+    "title": "CS150 – Data Structures & Algorithms",
+    "desc": "Object-oriented Java implementations of core data structures and algorithmic problem-solving techniques.",
     "img": "assets/imgs/project-cs150.png",
     "link": "https://github.com/EfeCivisoken/cs150-projects-and-labs"
   },
   {
-    "title": "LeetCode Practice (TO BE UPDATED)",
-    "desc": "Collection of algorithmic coding problems in mostly C++ and Python, systematically categorized by topic and difficulty.",
+    "title": "CS205 – Web Systems & Full-Stack Development",
+    "desc": "Full-stack web applications featuring backend APIs, frontend interfaces, and data-driven design.",
+    "img": "assets/imgs/project-cs205.png",
+    "link": "https://github.com/EfeCivisoken/cs205-labs"
+  },
+  {
+    "title": "LeetCode Practice",
+    "desc": "Curated collection of algorithmic problems solved in C++ and Python, focusing on data structures, algorithms, and interview preparation.",
     "img": "assets/imgs/project-leetcode.png",
     "link": "https://github.com/EfeCivisoken/leetcode-practice"
   }
-
 ]
